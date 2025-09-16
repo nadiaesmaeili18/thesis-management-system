@@ -1,0 +1,20 @@
+[
+  {
+    "professor_id": "P001",
+    "name": "Dr. Rezaei",
+    "password": "prof123",
+    "supervision_capacity": 5,
+    "review_capacity": 10,
+    "current_supervision": 0,
+    "current_review": 0
+  },
+  {
+    "professor_id": "P002",
+    "name": "Dr. Karimi",
+    "password": "prof456",
+    "supervision_capacity": 5,
+    "review_capacity": 10,
+    "current_supervision": 0,
+    "current_review": 0
+  }
+]

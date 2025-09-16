@@ -1,0 +1,16 @@
+[
+  {
+    "student_id": "S1001",
+    "name": "Ali Ahmadi",
+    "password": "stu123",
+    "thesis_requests": [],
+    "defense_requests": []
+  },
+  {
+    "student_id": "S1002",
+    "name": "Zahra Mohammadi",
+    "password": "stu456",
+    "thesis_requests": [],
+    "defense_requests": []
+  }
+]
